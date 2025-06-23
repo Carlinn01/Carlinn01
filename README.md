@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_carlos.oliveiraa/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01)](https://github.com/Carlinn01)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que eu uso no meu dia a dia
