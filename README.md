@@ -17,4 +17,16 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
+## 📚 Sobre mim
+
+🎓 Estudante de Técnico em Informática no IFC – Campus Videira | 💻 Apaixonado por tecnologia, desenvolvo alguns projetos, sempre buscando aprender mais e evoluir como programador.
+
+## 📞 Contato
+
+💻 Entre em contato comigo:
+
+- 📧 **E-mail:** carloseduardodalazenoliveira@gmail.com
+- 📷 **Instagram:** [@_carlos.oliveiraa](https://www.instagram.com/_carlos.oliveiraa/)
+- 🎥 **YouTube:** [@carlinn5159](https://www.youtube.com/@carlinn5159)
+
 
