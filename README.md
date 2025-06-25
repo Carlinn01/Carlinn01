@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@carlinn5159)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_carlos.oliveiraa/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01)](https://github.com/Carlinn01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01)](https://github.com/Carlinn01/github-readme-stats)
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&theme=dracula)
 
 
