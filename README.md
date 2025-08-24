@@ -28,7 +28,7 @@
 
 - 📧 **E-mail:** carloseduardodalazenoliveira@gmail.com
 - 📷 **Instagram:** [@_carlos.oliveiraa](https://www.instagram.com/_carlos.oliveiraa/)
-- 🎥 **YouTube:** [@carlinn5159](https://www.youtube.com/@carlinn5159)
+- 🔗 **Portfólio:** [Meu Portfólio](https://carlosoliveira.vercel.app)
 
 
 
