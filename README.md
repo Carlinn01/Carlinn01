@@ -26,5 +26,10 @@
 - 📷 **Instagram:** [@_carlos.oliveiraa](https://www.instagram.com/_carlos.oliveiraa/)
 - 🔗 **Portfólio:** [Meu Portfólio](https://carlosoliveira.vercel.app)
 
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Carlinn01/Carlinn01/output/snake.svg" alt="Snake animation" />
+
+###
