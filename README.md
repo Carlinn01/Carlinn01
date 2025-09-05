@@ -3,11 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01)
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&theme=dracula)
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C229%20hrs%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-16-blue)
-
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-2%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
 ## Tecnologias que eu uso no meu dia a dia
 
