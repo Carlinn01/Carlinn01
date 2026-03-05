@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Carlos Oliveira 👋
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01&show_icons=true&theme=dracula)
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&theme=dracula)
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
@@ -16,14 +12,15 @@
 
 ## 📚 Sobre mim
 
-🎓 Estudante de Técnico em Informática no IFC – Campus Videira | 💻 Apaixonado por tecnologia, desenvolvo alguns projetos, sempre buscando aprender mais e evoluir como programador.
+🎓 Ensino médio com Técnico em Informática no IFC – Campus Videira 
+📗 Cursando Ciência da Computação na UNOESC - Videira
+💻 Desenvolvo alguns projetos, sempre buscando aprender mais e evoluir como programador.
 
 ## 📞 Contato
 
 💻 Entre em contato comigo:
 
 - 📧 **E-mail:** carloseduardodalazenoliveira@gmail.com
-- 📷 **Instagram:** [@_carlos.oliveiraa](https://www.instagram.com/_carlos.oliveiraa/)
 - 🔗 **Portfólio:** [Meu Portfólio](https://carlosoliveira.vercel.app)
 
 ###
