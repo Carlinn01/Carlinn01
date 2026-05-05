@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Carlos Oliveira 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01&show_icons=true&theme=dracula)
-![André' GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&theme=dracula)
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
