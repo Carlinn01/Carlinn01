@@ -8,6 +8,7 @@
   <a href="https://carlosoliveira.vercel.app"><img src="https://img.shields.io/badge/Portfólio-1a1a1a?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/carlos-oliveira-580186331"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://www.instagram.com/carlosdev1"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+  <a href="mailto:carloseduardodalazenoliveira@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
 ---
@@ -18,6 +19,7 @@
 - 📗 Cursando **Ciência da Computação** na **UNOESC – Videira**
 - 👨‍🏫 Instrutor de Tecnologia da Informação no **SENAI/SC – Campos Novos**
 - 💻 Desenvolvedor full-stack, sempre construindo e evoluindo projetos próprios e freelas
+- 🔭 No momento, explorando simulações em Python (Monte Carlo) e automações com bots
 
 ---
 
@@ -45,12 +47,17 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=808080" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=808080" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlinn01&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlinn01&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&area_color=3B82F6" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlinn01&theme=github_dark" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlinn01&theme=github_dark" />
 </p>
 
 ---
