@@ -47,12 +47,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carlinn01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinn01&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+  <img height="165" src="https://carlinn-stats.vercel.app/api?username=Carlinn01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+  <img height="165" src="https://carlinn-stats.vercel.app/api/top-langs/?username=Carlinn01&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlinn01&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&area_color=3B82F6" />
+  <img src="https://carlinn-activity.vercel.app/graph?username=Carlinn01&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&area_color=3B82F6" />
 </p>
 
 <p align="center">
