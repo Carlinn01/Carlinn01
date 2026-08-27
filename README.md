@@ -19,7 +19,6 @@
 - 📗 Cursando **Ciência da Computação** na **UNOESC – Videira**
 - 👨‍🏫 Instrutor de Tecnologia da Informação no **SENAI/SC – Campos Novos**
 - 💻 Desenvolvedor full-stack, sempre construindo e evoluindo projetos próprios e freelas
-- 🔭 No momento, explorando simulações em Python (Monte Carlo) e automações com bots
 
 ---
 
